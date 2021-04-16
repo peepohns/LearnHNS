@@ -1,5 +1,5 @@
 # LearnHNS
-A backup of Handshake resources pulled directly from https://LearnHNS.com/.
+A backup of Handshake resources pulled directly from [LearnHNS.com](https://learnhns.com)
 
 # Educational Reading and Media Mentions
 
