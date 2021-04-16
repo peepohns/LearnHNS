@@ -4,6 +4,7 @@ A backup of Handshake resources pulled directly from https://LearnHNS.com/.
 # Educational Reading and Media Mentions
 
 * **The Case for Handshake** by Steven McKie
+
 https://amentum.substack.com/p/the-case-for-handshake
 
 * Everything You Didn’t Know About Handshake by Chjango Unchained
