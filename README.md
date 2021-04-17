@@ -1,7 +1,7 @@
 # LearnHNS
 A backup of Handshake resources pulled directly from [LearnHNS.com](https://learnhns.com)
 
-# Educational Reading and Media Mentions
+## Educational Reading and Media Mentions
 
 * **The Case for Handshake** by Steven McKie
 
@@ -231,7 +231,7 @@ https://medium.com/blockchannel/trading-handshake-names-bob-wallet-shakedex-9830
 
 https://digitalartifacts.substack.com/p/handshake
 
-# Educational Podcasts and Videos
+## Educational Podcasts and Videos
 
 * **BlockChannel: In Good Hands, with Hans Schoenburg**
 
@@ -380,3 +380,116 @@ https://skyinclude.com/transfer-bob-wallet-to-namebase/
 * **The DAO with the Ambition to Replace ICANN, with Tieshun Roquerre by Epicenter**
 
 https://epicenter.tv/episodes/380/
+
+## Wallets
+* **Namebase (Custodial Wallet + Fiat Purchases + Name Management)
+
+Bob Wallet (Non-Custodial Wallet + Name Management)
+
+Cobo Wallet
+
+Wallet.io Pro (Non-Custodial + Multisig)
+
+Handshake Airdrop Claim GUI
+
+## Applications
+
+HandyBrowser - Handshake’s first web browser
+
+PumaBrowser- Mobile Handshake Browser for iOS and Android
+
+## Exchanges
+
+Namebase (Consumer Exchange + Pro Exchange)
+
+sideshift.ai
+
+HotBit
+
+MXC
+
+Gate.io
+
+CoinEx
+
+ZB.com
+
+Bittrex
+
+Vitex
+
+## Services
+
+Coinmine Mining Hardware
+
+Nomics Finance API - https://nomics.com/assets/hns-handshake
+
+CoinGecko - https://www.coingecko.com/en/coins/handshake
+
+Blockfolio Price Tracker
+
+DNS.Live (tracking for HNS name registrations, claims, bids and more. Plus access to HNS educational resources)
+
+webshake.tech (Handshake Name URL shortener + analytics)
+
+goldshell.com (advanced Handshake mining hardware)
+
+allhns.hns.to (Handshake Ecosystem Visual Map)
+
+niamo.io (Handshake name rating and listing)
+
+hnssearch.hns.to (Handshake search engine)
+
+shakestats.com (Handshake on-chain data tracking)
+
+hdns.io (Easily resolve HNS domains on any browser)
+
+shakedex.com (Decentralized exchange for Handshake domains)
+
+## Community
+
+hnsfans.com (Chinese Handshake Learning Portal)
+
+t.me/handshaketalk.com (Handshake Community Telegram)
+
+mercenary.hns.to (Handshake Name Sales Community)
+
+t.me/nameswap (Handshake Name Sales Community)
+
+## Block Explorers
+
+hnscan.com
+
+e.hnsfans.com
+
+HNSxplorer.com
+
+hnsnetwork.com
+
+shakescan.com
+
+## Pools
+HNSPool.com
+
+6Block.com
+
+F2Pool
+
+uuPool.cn
+
+loloPool.com
+
+BlackMiner
+
+ViaBTC
+
+Easy2Mine
+
+DXPool
+
+Huobi Pool
+
+Hashpool
+
+## Want to stay up to date on HNS news weekly?
+theshake.substack.com
