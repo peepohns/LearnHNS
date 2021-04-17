@@ -230,3 +230,116 @@ https://medium.com/blockchannel/trading-handshake-names-bob-wallet-shakedex-9830
 * **Navigating the New Internet Using Handshake** by Nicole M.
 
 https://digitalartifacts.substack.com/p/handshake
+
+# Educational Podcasts and Videos
+
+* **BlockChannel: In Good Hands, with Hans Schoenburg**
+https://soundcloud.com/blockchannelshow/episode-54-in-good-hands-with-hans-schoenburg
+
+* **BlockChannel: Make You Say My Name, with Namebase with Tieshun Roquerre**
+https://soundcloud.com/blockchannelshow/episode-47-make-you-say-my-name-with-namebase
+
+* **BlockChannel: Playing the Name Game, with Urkel.io with Sean Kilgariff**
+https://soundcloud.com/blockchannelshow/episode-52-playing-the-name-game-with-urkelio
+
+* **YouTube: Urkel Tree: An Optimized and Cryptographically Provable Key-Value Store for Decentralized Naming**
+https://www.youtube.com/watch?v=41QlTuGdULQ
+
+* **Coindesk: Handshake’s Uncensorable Web Domains Go Live on Mainnet with Tieshun Roquerre**
+https://www.coindesk.com/handshakes-uncensorable-web-domains-go-live-on-mainnet
+
+* **HashR8 Mining Podcast with Namebase**
+https://thedailychain.com/hashr8-podcast-disrupting-dns/
+
+* **The Flippening Podcast by Nomics Finance with Namebase**
+https://blog.nomics.com/flippening/handshake-tieshun-roquerre-namebase/
+
+* **Off the Chain Podcast: Handshake and Namebase with Tieshun Roquerre**
+https://www.youtube.com/watch?v=qrDmQRu0eCM
+
+* **BlockChannel: Bitcoin, Handshake, and Africa, with YellowCard.io**
+https://soundcloud.com/blockchannelshow/episode-70-bitcoin-africa-and-handshake-with-yellowcardio
+
+* **CoinGecko: Why We Need to Decentralize Domain Names with Steven McKie**
+https://podcast.coingecko.com/719703/3224212-steven-mckie-on-why-we-need-to-decentralize-the-domain-name-system-ep-9
+
+* **Domain Name Podcast: Could Handshake Challenge Icann?**       
+https://domainnamewire.com/2020/06/01/the-handshake-alternative-dnw-podcast-288/
+
+* **How to Use the Non-Custodial Bob Wallet**
+https://www.youtube.com/watch?v=whFRCKEcZoU
+
+* **HNS Tokenomics: Adopting, Burning, Halvings**
+https://www.youtube.com/watch?v=RFuN1t75C90
+
+* **Handshake Covenant Code Walkthrough**
+https://www.youtube.com/watch?v=ZLZIevIZcWY
+
+* **Handshake Explainer Video**
+https://www.youtube.com/watch?v=FeIeOn0GO70
+
+* **How to Bid on Handshake Names**
+https://youtu.be/pWjNr5kSIGI
+
+* **How to Buy Handshake on Namebase**
+https://youtube.com/watch?v=XJp1WqADrmE
+
+* **Satoshi, Namecoin, and Handshake History**
+https://www.youtube.com/watch?v=TdT7J7Lt810
+
+* **DomainSherpa: “The Full Utility of a Domain”**
+https://www.domainsherpa.com/jothan-frakes/
+
+* **Goldshell HS1 Plus ASIC Miner Review**
+https://youtu.be/x2VXVlYnalA
+
+* **We Will Win: The Internet Will Be Decentralized**
+https://youtu.be/Q3QbXMFjro0
+
+* **Interactive Atomic Nameswaps of Handshake TLDs using Bob Wallet**
+https://youtu.be/yOinkatzPvo
+
+* **Setting Up a Handshake Name with Wordpress, WP2static, and Amazon S3**
+https://youtu.be/dxgLBvKC5YM
+
+* **Explaining Namebase and Handshake**
+https://soundcloud.com/user-4802515/episode-5-mp3-final-17092020
+
+* **CryptoBanter Episode with Zach Brown from The Shake Newsletter (Starts 4:00 in)**
+https://www.youtube.com/watch?v=ptgsf7X1Q_w
+
+* **HS3 Handshake Miner Review by Voskcoin**
+https://www.youtube.com/watch?v=W8aYpZyyGP4
+
+* **Total Covenant Updates per Block Visualization**
+https://youtu.be/Jrqm-H4owHQ
+
+* **How to Use Bob Wallet (Windows)**
+https://youtu.be/VL2vdS6gR5E
+
+* **How to setup HandyMiner CLI on Raspberry Pi**
+https://www.youtube.com/watch?v=W4sIrrnH_Xk&t=4s
+
+* **How to implement private airdrops w/ Riad Wahby, who developed GooSigs with @danboneh for the @HNS airdrop to GitHub users**
+https://open.spotify.com/episode/0fmxVGltwh5gGhLDKalKzU
+
+* **The Dictionary is Money by Josh Terry**
+https://vm.tiktok.com/ZMe1yPHmV/
+
+* **Handshake and Namebase by Maren Altman**
+https://vm.tiktok.com/ZMe1yxqAS/
+
+* **Building an Uncensorable Social Network, with Kyokan (Bob Wallet Creators)**
+https://interchain.fm/episodes/kyokan-building-an-uncensorable-social-network/
+
+* **Namer Stories with Mark Smith of Namesake Domains**
+https://podcasts.apple.com/us/podcast/mark-smith/id1545419116?i=1000502721998/
+
+* **Goldshell HS5 Miner Unboxing**
+https://www.youtube.com/watch?v=jQfW2qlByiE&feature=youtu.be
+
+* **How to Transfer Names from Bob Wallet to Namebase by Mike Michelini**
+https://skyinclude.com/transfer-bob-wallet-to-namebase/
+
+* **The DAO with the Ambition to Replace ICANN, with Tieshun Roquerre by Epicenter**
+https://epicenter.tv/episodes/380/
