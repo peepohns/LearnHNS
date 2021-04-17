@@ -382,114 +382,114 @@ https://skyinclude.com/transfer-bob-wallet-to-namebase/
 https://epicenter.tv/episodes/380/
 
 ## Wallets
-* **Namebase (Custodial Wallet + Fiat Purchases + Name Management)
+[Namebase (Custodial Wallet + Fiat Purchases + Name Management)(https://www.namebase.io/)
 
-Bob Wallet (Non-Custodial Wallet + Name Management)
+[Bob Wallet (Non-Custodial Wallet + Name Management)
 
-Cobo Wallet
+[Cobo Wallet
 
-Wallet.io Pro (Non-Custodial + Multisig)
+[Wallet.io Pro (Non-Custodial + Multisig)
 
-Handshake Airdrop Claim GUI
+[Handshake Airdrop Claim GUI
 
 ## Applications
 
-HandyBrowser - Handshake’s first web browser
+[HandyBrowser - Handshake’s first web browser
 
-PumaBrowser- Mobile Handshake Browser for iOS and Android
+[PumaBrowser- Mobile Handshake Browser for iOS and Android
 
 ## Exchanges
 
-Namebase (Consumer Exchange + Pro Exchange)
+[Namebase (Consumer Exchange + Pro Exchange)
 
-sideshift.ai
+[sideshift.ai
 
-HotBit
+[HotBit
 
-MXC
+[MXC
 
-Gate.io
+[Gate.io
 
-CoinEx
+[CoinEx
 
-ZB.com
+[ZB.com
 
-Bittrex
+[Bittrex
 
-Vitex
+[Vitex
 
 ## Services
 
-Coinmine Mining Hardware
+[Coinmine Mining Hardware
 
 Nomics Finance API - https://nomics.com/assets/hns-handshake
 
 CoinGecko - https://www.coingecko.com/en/coins/handshake
 
-Blockfolio Price Tracker
+[Blockfolio Price Tracker
 
-DNS.Live (tracking for HNS name registrations, claims, bids and more. Plus access to HNS educational resources)
+[DNS.Live](https://dns.live/) (tracking for HNS name registrations, claims, bids and more. Plus access to HNS educational resources)
 
-webshake.tech (Handshake Name URL shortener + analytics)
+[webshake.tech] (Handshake Name URL shortener + analytics)
 
-goldshell.com (advanced Handshake mining hardware)
+[goldshell.com] (advanced Handshake mining hardware)
 
-allhns.hns.to (Handshake Ecosystem Visual Map)
+[allhns.hns.to] (Handshake Ecosystem Visual Map)
 
-niamo.io (Handshake name rating and listing)
+[niamo.io] (Handshake name rating and listing)
 
-hnssearch.hns.to (Handshake search engine)
+[hnssearch.hns.to] (Handshake search engine)
 
-shakestats.com (Handshake on-chain data tracking)
+[shakestats.com] (Handshake on-chain data tracking)
 
-hdns.io (Easily resolve HNS domains on any browser)
+[hdns.io] (Easily resolve HNS domains on any browser)
 
-shakedex.com (Decentralized exchange for Handshake domains)
+[shakedex.com] (Decentralized exchange for Handshake domains)
 
 ## Community
 
-hnsfans.com (Chinese Handshake Learning Portal)
+[hnsfans.com] (Chinese Handshake Learning Portal)
 
 t.me/handshaketalk.com (Handshake Community Telegram)
 
-mercenary.hns.to (Handshake Name Sales Community)
+[mercenary.hns.to] (Handshake Name Sales Community)
 
 t.me/nameswap (Handshake Name Sales Community)
 
 ## Block Explorers
 
-hnscan.com
+[hnscan.com]
 
-e.hnsfans.com
+[e.hnsfans.com]
 
-HNSxplorer.com
+[HNSxplorer.com]
 
-hnsnetwork.com
+[hnsnetwork.com]
 
-shakescan.com
+[shakescan.com]
 
 ## Pools
-HNSPool.com
+[HNSPool.com]
 
-6Block.com
+[6Block.com]
 
-F2Pool
+[F2Pool]
 
-uuPool.cn
+[uuPool.cn]
 
-loloPool.com
+[loloPool.com]
 
-BlackMiner
+[BlackMiner]
 
-ViaBTC
+[ViaBTC]
 
-Easy2Mine
+[Easy2Mine]
 
-DXPool
+[DXPool]
 
-Huobi Pool
+[Huobi Pool]
 
-Hashpool
+[Hashpool
 
 ## Want to stay up to date on HNS news weekly?
-theshake.substack.com
+[theshake.substack.com]
