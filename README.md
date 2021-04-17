@@ -382,7 +382,7 @@ https://skyinclude.com/transfer-bob-wallet-to-namebase/
 https://epicenter.tv/episodes/380/
 
 ## Wallets
-[Namebase (Custodial Wallet + Fiat Purchases + Name Management)(https://www.namebase.io/)
+[Namebase.io (Custodial Wallet + Fiat Purchases + Name Management)](https://www.namebase.io/)
 
 [Bob Wallet (Non-Custodial Wallet + Name Management)
 
