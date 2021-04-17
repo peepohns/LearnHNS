@@ -460,13 +460,10 @@ https://epicenter.tv/episodes/380/
 
 * [e.hnsfans.com](https://e.hnsfans.com/)
 
-* [HNSxplorer.com](https://hnsxplorer.com/)
-
 * [hnsnetwork.com](https://hnsnetwork.com/)
 
-* [shakescan.com](http://shakescan.com/)
-
 ## Pools
+
 * [pool.urkel.com](https://pool.urkel.com/)
 
 * [6Block.com](https://6block.com/en)
