@@ -400,21 +400,21 @@ https://epicenter.tv/episodes/380/
 
 ## Exchanges
 
-*[Namebase.io](https://www.namebase.io/) (Consumer Exchange + Pro Exchange)
+* [Namebase.io](https://www.namebase.io/) (Consumer Exchange + Pro Exchange)
 
-*[sideshift.ai](https://sideshift.ai/)
+* [sideshift.ai](https://sideshift.ai/)
 
-*[HotBit.io](https://www.hotbit.io/)
+* [HotBit.io](https://www.hotbit.io/)
 
-*[MXC.com](https://www.mxc.com/)
+* [MXC.com](https://www.mxc.com/)
 
-*[Gate.io](https://www.gate.io/)
+* [Gate.io](https://www.gate.io/)
 
-*[CoinEx](https://www.coinex.com/)
+* [CoinEx](https://www.coinex.com/)
 
-*[ZB.com](https://www.zb.com/)
+* [ZB.com](https://www.zb.com/)
 
-*[Vitex](https://vitex.net/)
+* [Vitex](https://vitex.net/)
 
 ## Services
 
