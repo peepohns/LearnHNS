@@ -491,3 +491,35 @@ https://epicenter.tv/episodes/380/
 
 ## Want to stay up to date on HNS news weekly?
 * [theshake.substack.com](https://theshake.substack.com/)
+
+
+## Educational Diagrams and Graphics Below
+![UvcUOsus](https://user-images.githubusercontent.com/77860971/115100062-ddb85580-9ed5-11eb-9558-f1e859fd4bdc.jpg)
+
+![tumblr_f6a8a9653c61a4ce565cbfd8508cf254_4453af74_1280](https://user-images.githubusercontent.com/77860971/115100084-08a2a980-9ed6-11eb-8b2d-e0308bcb0718.jpg)
+
+List of Handshake investors. All $10.2 million USD raised was donated to FOSS groups and projects:
+![tumblr_6e92c0d1fa3214f3715873e1d20b9b3d_59790ab8_1280](https://user-images.githubusercontent.com/77860971/115100103-32f46700-9ed6-11eb-8d72-3414780e773b.jpg)
+
+![IMG_5211](https://user-images.githubusercontent.com/77860971/115100139-7d75e380-9ed6-11eb-8abc-5f6a6cd78e1d.png)
+
+![tech-graphics-02](https://user-images.githubusercontent.com/77860971/115100148-8f578680-9ed6-11eb-95c6-78588ae3da69.jpg)
+
+![IMG_5517](https://user-images.githubusercontent.com/77860971/115100153-9d0d0c00-9ed6-11eb-9cfd-53b6b46c97f7.jpg)
+
+![IMG_3909](https://user-images.githubusercontent.com/77860971/115100157-a7c7a100-9ed6-11eb-864f-3482a4a61a7d.jpg)
+
+![IMAGE 2020-08-16 18_56_11](https://user-images.githubusercontent.com/77860971/115100164-b746ea00-9ed6-11eb-8a02-b6a9e37d163c.jpg)
+
+![IMAGE 2020-08-16 18_56_09](https://user-images.githubusercontent.com/77860971/115100171-c168e880-9ed6-11eb-8986-f3dc2657f21c.jpg)
+
+![IMAGE 2020-08-16 18_54_56](https://user-images.githubusercontent.com/77860971/115100183-caf25080-9ed6-11eb-9d79-60ad35e0314a.jpg)
+
+![handshake-tech-graphics-72dpi-03](https://user-images.githubusercontent.com/77860971/115100190-d34a8b80-9ed6-11eb-92e1-7de3ad32cbb0.png)
+
+![handshake-tech-graphics-72dpi-02](https://user-images.githubusercontent.com/77860971/115100201-dc3b5d00-9ed6-11eb-9b26-713959797adb.png)
+
+![handshake-tech-graphics-72dpi-01](https://user-images.githubusercontent.com/77860971/115100207-e52c2e80-9ed6-11eb-9eeb-fe9f99bc5c8c.png)
+
+![Ecosystem Chart Q32020](https://user-images.githubusercontent.com/77860971/115100220-f2491d80-9ed6-11eb-9024-5e91fa98d70c.png)
+
