@@ -498,7 +498,7 @@ https://epicenter.tv/episodes/380/
 
 ![tumblr_f6a8a9653c61a4ce565cbfd8508cf254_4453af74_1280](https://user-images.githubusercontent.com/77860971/115100084-08a2a980-9ed6-11eb-8b2d-e0308bcb0718.jpg)
 
-List of Handshake investors. All $10.2 million USD raised was donated to FOSS groups and projects:
+**List of Handshake investors (all $10.2 million USD raised was donated to FOSS groups and projects):** 
 ![tumblr_6e92c0d1fa3214f3715873e1d20b9b3d_59790ab8_1280](https://user-images.githubusercontent.com/77860971/115100103-32f46700-9ed6-11eb-8d72-3414780e773b.jpg)
 
 ![IMG_5211](https://user-images.githubusercontent.com/77860971/115100139-7d75e380-9ed6-11eb-8abc-5f6a6cd78e1d.png)
