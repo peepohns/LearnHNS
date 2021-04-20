@@ -381,6 +381,10 @@ https://skyinclude.com/transfer-bob-wallet-to-namebase/
 
 https://epicenter.tv/episodes/380/
 
+* **Building the Infrastructure of the DWeb with Handshake by Economics Design and Kiba Gateaux**
+
+https://youtu.be/bJN_gqgEYPs
+
 ## Wallets
 * [Namebase.io](https://www.namebase.io/) (Custodial Wallet + Fiat Purchases + Name Management)
 
